@@ -1,0 +1,25 @@
+_repo: The-dread-Apache-That-early-day-scourge-of-the-Southwest_69801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, Merrill Pingree
+    gutenberg_agent_id: '55428'
+    url: http://www.gutenberg.org/2009/agents/55428
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69801'
+language: en
+pgterms:marc905: 20221225120426freeman
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: None listed,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The dread Apache: That early-day scourge of the Southwest'
+url: http://www.gutenberg.org/ebooks/69801
